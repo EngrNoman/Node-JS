@@ -1,0 +1,3 @@
+
+*Read Line 
+The readline module in Node.js is used to create an interface for reading data from a readable stream, such as the command-line interface (CLI), one line at a time. It's especially useful for building interactive command-line programs that need to take input from users or files. Here's why and when you might use the readline module:
